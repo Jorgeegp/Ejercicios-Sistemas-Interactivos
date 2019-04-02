@@ -1,10 +1,11 @@
 
   // Inicializar Firebase
 export const FIREBASE_CONFIG = {
-    apiKey: "AIzaSyCjsHY4Al6w3JPGdIeUvETgex6RShjDYec",
-    authDomain: "micropractica7.firebaseapp.com",
-    databaseURL: "https://micropractica7.firebaseio.com",
-    projectId: "micropractica7",
+
+    apiKey: "AIzaSyAossRlMb0THiilU_nkdsjmhOcjovK4nEI",
+    authDomain: "practica07-bdec8.firebaseapp.com",
+    databaseURL: "https://practica07-bdec8.firebaseio.com",
+    projectId: "practica07-bdec8",
     storageBucket: "",
-    messagingSenderId: "538280357519"
-  };  
+    messagingSenderId: "283413963871"
+  };
